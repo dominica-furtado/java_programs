@@ -12,6 +12,7 @@ public class word_count
 	{
 		Scanner sc = new Scanner(System.in);
 		
+		System.out.println("Adding logger");
 		String str;
 		System.out.println("Enter a string :");	//Accept a string from user
 		str = sc.nextLine();
